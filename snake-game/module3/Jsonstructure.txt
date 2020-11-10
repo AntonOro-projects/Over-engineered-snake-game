@@ -1,0 +1,98 @@
+
+# What we expect to get from the GUI/client
+{   
+    "addPlayers": [
+        {"id": 1},
+        {"id": 2},
+        {"id": 3}
+    ],
+    "removePlayers": [
+        {"id": 4},
+        {"id": 5},
+        {"id": 6}
+    ],
+    "boards": [
+        "board1": [    
+            {"snake1":"right"},    
+            {"snake2":""},  
+            {"snake3":"up"},    
+            {"snake4":""},
+            {"snake5":""}   
+        ],
+        "board2":
+        [    
+            {"snake1":"right"},    
+            {"snake2":""},  
+            {"snake3":""},    
+            {"snake4":"down"} 
+            {"snake5":""} 
+        ]
+    ]
+}  
+
+
+
+# What we expect to send to the GUI/client
+{   
+    "boards": 
+    [
+        "board1": 
+        [  
+            "snakes" : 
+            [
+                "snake1ID": 
+                {
+                    "alive": true,
+                    "snakeBody": [(0,0),(0,0),(0,0),(0,0),(0,0)], // First point is head last is tail
+                    "score": 0,
+                },                
+                "snake2ID": 
+                {
+                    "alive": true,
+                    "snakeBody": [(0,0),(0,0),(0,0),(0,0),(0,0)], // First point is head last is tail
+                    "score": 0,
+                },
+                "snake3ID": 
+                {
+                    "alive": false,
+                    "snakeBody": [(0,0),(0,0),(0,0),(0,0),(0,0)], // First point is head last is tail
+                    "score": 69,
+                },  
+            ],
+            "applePos": [
+                {"coord1": (0,0)},
+                {"coord2": (0,0)},
+                {"coord3": (0,0)} 
+            ]
+        ],
+        "board2":
+        [    
+            "snakes" : 
+            [
+                "snake1ID": 
+                {
+                    "alive": true,
+                    "snakeBody": [(0,0),(0,0),(0,0),(0,0),(0,0)], // First point is head last is tail
+                    "score": 0,
+                },                
+                "snake2ID": 
+                {
+                    "alive": true,
+                    "snakeBody": [(0,0),(0,0),(0,0),(0,0),(0,0)], // First point is head last is tail
+                    "score": 0,
+                },
+                "snake3ID": 
+                {
+                    "alive": false,
+                    "snakeBody": [(0,0),(0,0),(0,0),(0,0),(0,0)], // First point is head last is tail
+                    "score": 69,
+                },  
+            ],
+            "applePos": [
+                {"coord1": (0,0)},
+                {"coord2": (0,0)},
+                {"coord3": (0,0)} 
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+snake-game/database/target/*
+.idea/*
+.vscode/*
+/.metadata/
+**/*.class
+**/.classpath
+**/.project
+**/.settings
+snake-game/mysql-docker/data/

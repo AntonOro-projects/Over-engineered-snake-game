@@ -1,0 +1,13 @@
+.button {
+    -fx-background-color: darkslateblue;
+    -fx-text-fill: white;
+    -fx-border-color: rgb(49, 89, 23);
+
+}
+
+
+#canvas {
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+    -fx-border-color: red;
+}

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5ed22e4-933b-49c9-8520-995807070052" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module3/Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module3/Logic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/GameRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/GameRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/GameServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/GameServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DatabaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestSchema.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1baCbn1qe91HQdfTnvTE8dyNtZW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gamin\Desktop\TDDE41-MavenProject\Snake\src\main\java\database" />
+      <recent name="C:\Users\gamin\Desktop\TDDE41-MavenProject\Snake\src\main\java\module3" />
+      <recent name="C:\Users\gamin\Desktop\TDDE41-MavenProject\Snake\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.MainServer" />
+      <module name="Snake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5ed22e4-933b-49c9-8520-995807070052" name="Default Changelist" comment="" />
+      <created>1588860890600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588860890600</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="279" key="GridCell.Tab.0.bottom" timestamp="1589450497906">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1589450497906" />
+    <state width="1874" height="279" key="GridCell.Tab.0.center" timestamp="1589450497905">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="279" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1589450497905" />
+    <state width="1874" height="279" key="GridCell.Tab.0.left" timestamp="1589450497905">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="279" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1589450497905" />
+    <state width="1874" height="279" key="GridCell.Tab.0.right" timestamp="1589450497906">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="279" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1589450497906" />
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1589449642386">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1920.1053@0.0.1920.1053" timestamp="1589449642386" />
+  </component>
+</project>
